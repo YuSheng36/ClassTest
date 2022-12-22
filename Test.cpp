@@ -2,6 +2,5 @@
 
 main()
 {
-	int a;
-	a += 1;	
+	printf("¤j®a¦n");	
 } 
